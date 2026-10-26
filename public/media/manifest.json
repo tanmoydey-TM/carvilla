@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "desktop": {
+      "count": 158,
+      "width": 1344,
+      "fps": 24
+    },
+    "mobile": {
+      "count": 158,
+      "width": 640,
+      "fps": 24
+    }
+  },
+  {
+    "id": 2,
+    "desktop": {
+      "count": 124,
+      "width": 832,
+      "fps": 24
+    },
+    "mobile": {
+      "count": 124,
+      "width": 640,
+      "fps": 24
+    }
+  },
+  {
+    "id": 3,
+    "desktop": {
+      "count": 124,
+      "width": 832,
+      "fps": 24
+    },
+    "mobile": {
+      "count": 124,
+      "width": 640,
+      "fps": 24
+    }
+  }
+]

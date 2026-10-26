@@ -1,0 +1,25 @@
+{
+  "name": "car-villa",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "media:prepare": "node scripts/prepare-media.mjs",
+    "model:optimize": "gltf-transform optimize"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.27",
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@gltf-transform/cli": "^4.5.1",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3"
+  }
+}
